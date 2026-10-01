@@ -4,6 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-Google-8E75B2?logo=googlegemini&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-6.x-21759B?logo=wordpress&logoColor=white)
 ![License MIT](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative&logoColor=white)
 
 ## What is Init Chatbot?
