@@ -1,4 +1,4 @@
-# Init Chatbot
+# Init Chatbot v1.0.3
 
 > A self-hosted question-and-answer chatbot for WordPress sites, powered by Google Gemini.
 
