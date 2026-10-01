@@ -1,6 +1,12 @@
 # Init Chatbot
 
-A self-hosted question-and-answer chatbot for WordPress sites, powered by Google Gemini.
+> A self-hosted question-and-answer chatbot for WordPress sites, powered by Google Gemini.
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-Google-8E75B2?logo=googlegemini&logoColor=white)
+![License MIT](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative&logoColor=white)
+
+## What is Init Chatbot?
 
 Init Chatbot reads your posts through the WordPress REST API, finds the passages that best match each question (keyword search plus Gemini embeddings), and lets a Gemini model write a short answer that **links back to your own articles**. It runs on a small VPS (1 GB of RAM is enough), keeps your Gemini API key on the server, and adds a lightweight chat widget to your site with a single `<script>` tag.
 
